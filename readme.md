@@ -24,7 +24,7 @@ The aim of this game is to match pairs of cards. Click on a card in the interact
 
 
 ## How to run:
-1. Save "Memory Game Jar Runnable File" directory
+1. Download this repo.
 2. You must have Java JDK 8 JRE to run this.
 3. Double click on MemoryGame_GUI_OOAD_Project.jar
 4. After this, game will start.
